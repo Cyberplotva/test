@@ -1,4 +1,5 @@
-print('I\'m batman' )
+s = 'I\'m batman'
+print(s)
 
 
 """Modified file"""
