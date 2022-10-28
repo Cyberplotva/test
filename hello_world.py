@@ -1,2 +1,3 @@
 str = 'hello world'
-print(str)
+print(str + ' ass')
+
